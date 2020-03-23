@@ -13,8 +13,12 @@ print(a)
 ```
 
 Operations:
-- Addition with a scalar `a+1`
-- Vector addition: `a + b`
+- Addition/subtraction with a scalar `a + 1`
+- Vector addition/subtraction: `a + b`
+- Scalar multiplication: `k * a`
+- Bit-wise XOR: `k ^ a`
+- Vector magnitude: `a.length()`
+- `reverse()`, `hash()`, `repr()`, `reversed()`, `a[i] = k`
 
 ## Installation
 
