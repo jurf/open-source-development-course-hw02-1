@@ -1,4 +1,6 @@
-# Simple Vector implementation in python 
+[![Build Status](https://travis-ci.org/jurf/open-source-development-course-hw02-1.svg?branch=pr%2Fstep1)](https://travis-ci.org/jurf/open-source-development-course-hw02-1)
+
+# Simple Vector implementation in python
 
 Very simple vector implementation supporting basic operations.
 
@@ -17,5 +19,5 @@ Operations:
 ## Installation
 
 ```bash
-pip install -U --no-cache . 
+pip install -U --no-cache .
 ```
